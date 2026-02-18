@@ -41,6 +41,6 @@ If you are unsure whether your data, software, or research outputs fall under ex
 ---
 
 ## Official Policy Document (Recommended)
-A full versioned policy document (PDF) will be published and maintained as the official reference.
-
+- **HTC Policy (PDF):** https://github.com/jsu-research-computing/ci-policy/blob/main/pdf/JSU_HTC_Policy_v1.0_20250924.pdf
+- 
 For questions or clarifications, contact the Cyberinfrastructure Facilitation Team via the **Support** page.
