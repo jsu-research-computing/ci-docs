@@ -1,3 +1,11 @@
+[Home](../) | 
+[Get Access](../get-access/) | 
+[Training](../training/) | 
+[Policies](../policies/) | 
+[Examples](../examples/) | 
+[Support](../support/)
+
+---
 # JSU Research Computing (RC)
 
 Welcome to **Jackson State University Research Computing** — a campus resource that supports research, learning, and innovation through advanced computing infrastructure, training, and facilitation.
