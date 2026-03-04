@@ -1,126 +1,82 @@
+---
+title: JSU Research Computing
+---
+
 # JSU Research Computing (RC)
 
-[Home]({{ site.baseurl }}/) |
-[Access]({{ site.baseurl }}/access/) |
-[Training]({{ site.baseurl }}/training/) |
-[Resources]({{ site.baseurl }}/resources/) |
-[OSG @ JSU]({{ site.baseurl }}/osg/) |
-[Support]({{ site.baseurl }}/support/)
-
----
+<nav style="margin: 10px 0 18px 0; font-size: 1.05em;">
+  <a href="{{ site.baseurl }}/">Home</a> |
+  <a href="{{ site.baseurl }}/get-access/">Access</a> |
+  <a href="{{ site.baseurl }}/training/">Training</a> |
+  <a href="{{ site.baseurl }}/resources/">Resources</a> |
+  <a href="{{ site.baseurl }}/osg/">OSG @ JSU</a> |
+  <a href="{{ site.baseurl }}/support/">Support</a>
+</nav>
 
 Welcome to **Jackson State University Research Computing (RC)** — a campus service that supports research, learning, and innovation through advanced computing infrastructure, training, and facilitation.
 
-Our goal is to help students, faculty, and research teams:
+---
 
-* access computing resources
-* learn high-throughput computing workflows
-* run computational research responsibly on shared systems
-* connect with national cyberinfrastructure programs
+## Get Started
+
+<div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; margin-top: 12px;">
+
+  <a href="{{ site.baseurl }}/get-access/" style="text-decoration:none; color:inherit;">
+    <div style="border:1px solid #e5e7eb; border-radius:14px; padding:14px;">
+      <h3 style="margin:0 0 6px 0;">🚪 Request Access</h3>
+      <p style="margin:0;">How to request RC access and complete onboarding.</p>
+    </div>
+  </a>
+
+  <a href="{{ site.baseurl }}/training/" style="text-decoration:none; color:inherit;">
+    <div style="border:1px solid #e5e7eb; border-radius:14px; padding:14px;">
+      <h3 style="margin:0 0 6px 0;">🎓 Training</h3>
+      <p style="margin:0;">Learn HTC basics, Linux, HTCondor submission, and workflows.</p>
+    </div>
+  </a>
+
+  <a href="{{ site.baseurl }}/resources/" style="text-decoration:none; color:inherit;">
+    <div style="border:1px solid #e5e7eb; border-radius:14px; padding:14px;">
+      <h3 style="margin:0 0 6px 0;">📚 Resources</h3>
+      <p style="margin:0;">Policies, curriculum PDFs, training modules, and examples.</p>
+    </div>
+  </a>
+
+  <a href="{{ site.baseurl }}/osg/" style="text-decoration:none; color:inherit;">
+    <div style="border:1px solid #e5e7eb; border-radius:14px; padding:14px;">
+      <h3 style="margin:0 0 6px 0;">🌎 OSG @ JSU</h3>
+      <p style="margin:0;">How JSU connects to national cyberinfrastructure (OSPool/OSG).</p>
+    </div>
+  </a>
+
+  <a href="{{ site.baseurl }}/support/" style="text-decoration:none; color:inherit;">
+    <div style="border:1px solid #e5e7eb; border-radius:14px; padding:14px;">
+      <h3 style="margin:0 0 6px 0;">🧑‍💻 Support</h3>
+      <p style="margin:0;">Get help, troubleshooting steps, and contacts.</p>
+    </div>
+  </a>
+
+</div>
 
 ---
 
-## 🚀 Get Started
+## What we support
 
-### Request Access
-
-If you are new to JSU Research Computing, start by submitting an access request.
-
-You will be guided through onboarding and training before using computing resources.
-
-➡ **Start here:**
-{{ site.baseurl }}/access/
+- **High-throughput computing (HTC)** workflows using **HTCondor**
+- Training and onboarding for students, faculty, and research groups
+- Responsible use of shared computing resources
+- Connections to national CI programs (OSG/OSPool)
 
 ---
 
-### Training
+## Behind the portal (for the team)
 
-Users should complete the **JSU HTC training modules** before running jobs on shared systems.
+This site is the front-end for the JSU Research Computing GitHub organization:
 
-Training includes:
+https://github.com/jsu-research-computing
 
-* introduction to high-throughput computing
-* Linux basics
-* HTCondor job submission
-* data transfer and workflow management
-
-➡ **View training:**
-{{ site.baseurl }}/training/
-
----
-
-## 📚 Resources
-
-### Policies
-
-All users must follow the official **JSU Research Computing acceptable use policy**.
-
-➡ Policy repository:
-https://github.com/jsu-research-computing/ci-policy
-
----
-
-### Training Curriculum
-
-Official JSU Research Computing curriculum and documentation.
-
-➡ Training assets repository:
-https://github.com/jsu-research-computing/ci-training-assets
-
----
-
-### Example Jobs
-
-Copy-and-run HTCondor workflows to help you submit your first jobs.
-
-Examples include:
-
-* hello-world job
-* file transfer workflow
-* DAGMan pipelines
-
-➡ Example workflows:
-https://github.com/jsu-research-computing/htcondor-examples
-
----
-
-## 🌎 National Cyberinfrastructure
-
-Jackson State University participates in the **Open Science Grid (OSG)** through the **OSPool high-throughput computing ecosystem**.
-
-This allows researchers to access distributed computing resources across many institutions.
-
-JSU resources are connected through a campus **Compute Element (CE)**.
-
-➡ OSPool institution page:
-https://osg-htc.org/services/ospool/institutions?institution=Jackson+State+University
-
-➡ JSU CE dashboard:
-https://ce-dashboard.ospool.osg-htc.org/overview.html?host=jsu-tigers-ce1
-
----
-
-## 🧑‍💻 Support
-
-The JSU Cyberinfrastructure team provides:
-
-* onboarding assistance
-* technical guidance
-* troubleshooting support
-* connections to national research computing resources
-
-➡ **Get help:**
-{{ site.baseurl }}/support/
-
----
-
-## About JSU Research Computing
-
-JSU’s Research Computing initiative supports the university’s mission to expand:
-
-* research capacity
-* data science and AI capabilities
-* national cyberinfrastructure engagement
-* student access to advanced computing education
-
-This portal serves as the **public gateway** to those resources while JSU continues building a full institutional cyberinfrastructure platform.
+Key repositories:
+- **ci-policy** (official policies)
+- **ci-training-assets** (official curriculum PDFs)
+- **htc-training** (hands-on modules)
+- **htcondor-examples** (starter job workflows)
