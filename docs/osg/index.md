@@ -9,22 +9,18 @@
 
 ---
 
-## Open Science Grid
+## What is OSG / OSPool?
+The **Open Science Grid (OSG)** supports distributed high-throughput computing for research communities across many institutions.  
+The **OSPool** is a shared HTC service where researchers run workloads across pooled resources.
 
-The Open Science Grid (OSG) supports distributed high-throughput computing for research communities across many institutions.
+## JSU in the national cyberinfrastructure ecosystem
+Jackson State University appears in OSPool’s institution listing and has a visible **Compute Element (CE)** in the OSG dashboards.
 
-JSU participates through the **OSPool ecosystem**, which allows researchers to run HTC workloads across shared national resources.
+### Official links
+- [OSPool institution listing (JSU)](https://osg-htc.org/services/ospool/institutions?institution=Jackson+State+University)
+- [JSU Compute Element dashboard (JSU-Tigers-CE1)](https://ce-dashboard.ospool.osg-htc.org/overview.html?host=jsu-tigers-ce1)
 
----
-
-## Jackson State University Resources
-
-OSPool institution listing:
-
-https://osg-htc.org/services/ospool/institutions?institution=Jackson+State+University
-
----
-
-JSU Compute Element dashboard:
-
-https://ce-dashboard.ospool.osg-htc.org/overview.html?host=jsu-tigers-ce1
+## Why this matters for JSU
+- Strengthens JSU’s research computing visibility
+- Supports scalable HTC research workflows
+- Builds partnerships and readiness for external funding and collaborations
