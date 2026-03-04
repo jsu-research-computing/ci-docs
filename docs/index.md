@@ -21,6 +21,13 @@ Welcome to **Jackson State University Research Computing (RC)** — a campus ser
 
 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; margin-top: 12px;">
 
+   <a href="{{ site.baseurl }}/start-here/" style="text-decoration:none; color:inherit;">
+    <div style="border:1px solid #e5e7eb; border-radius:14px; padding:14px;">
+      <h3 style="margin:0 0 6px 0;">🧭 Start Here</h3>
+      <p style="margin:0;">New to JSU Research Computing? Follow the quick onboarding path.</p>
+    </div>
+  </a>
+
   <a href="{{ site.baseurl }}/get-access/" style="text-decoration:none; color:inherit;">
     <div style="border:1px solid #e5e7eb; border-radius:14px; padding:14px;">
       <h3 style="margin:0 0 6px 0;">🚪 Request Access</h3>
