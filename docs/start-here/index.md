@@ -27,7 +27,7 @@ Work through the training modules before running jobs on shared resources.
 
 3) **Run Your First Job (Example)**  
 Use copy/paste starter workflows (hello-world, file transfer, DAGMan).  
-➡ https://github.com/jsu-research-computing/htcondor-examples
+➡ **Open the examples repo:** https://github.com/jsu-research-computing/htcondor-examples
 
 4) **Review Policies**  
 Make sure you understand acceptable use and security expectations.  
