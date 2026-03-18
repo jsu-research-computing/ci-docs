@@ -1,15 +1,13 @@
----
-title: Start Here
----
-
 # Start Here
 
-[Home]({{ site.baseurl }}/) | 
-[Access]({{ site.baseurl }}/get-access/) | 
-[Training]({{ site.baseurl }}/training/) | 
-[Resources]({{ site.baseurl }}/resources/) | 
-[OSG @ JSU]({{ site.baseurl }}/osg/) | 
-[Support]({{ site.baseurl }}/support/)
+[Home](/ci-docs/) | 
+[Get Access](/ci-docs/get-access/) | 
+[Training](/ci-docs/training/) | 
+[Policies](/ci-docs/policies/) | 
+[Examples](/ci-docs/examples/) | 
+[Resources](/ci-docs/resources/) | 
+[System Specs](/ci-docs/system-specs/) | 
+[Support](/ci-docs/support/)
 
 ---
 
@@ -21,45 +19,51 @@ Use this quick onboarding path. Each step has a direct link.
 
 ### Step 1 — Request Access
 
-Start the onboarding process and learn what you need to get set up.
+Start the onboarding process and complete the official CI Facilitation form.
 
-➡️ **[Open Access Page](/ci-docs/get-access/)**  
-📌 **[Go to Support (if you’re stuck)](/ci-docs/support/)**
+➡️ **[Open CI Facilitation Form](PASTE_GOOGLE_FORM_LINK_HERE)**  
+📄 **[Go to Get Access Page](/ci-docs/get-access/)**
 
 ---
 
 ### Step 2 — Complete Training
 
-Work through the training modules before running jobs on shared resources.
+Work through the training materials before running jobs on shared resources.
 
 🎓 **[Open Training Page](/ci-docs/training/)**  
-📄 **[Training Curriculum PDFs (Repo)](https://github.com/jsu-research-computing/ci-training-assets)**
+📚 **[Training Materials Repository](https://github.com/jsu-research-computing/htc-training)**
 
 ---
 
-### Step 3 — Run Your First Job (Examples)
+### Step 3 — Run Your First Job
 
-Use copy/paste starter workflows (hello-world, file transfer, DAGMan).
+Use starter workflows such as hello-world, file transfer, and DAGMan.
 
 🧪 **[Open Examples Page](/ci-docs/examples/)**  
-💻 **[HTCondor Examples Repo](https://github.com/jsu-research-computing/htcondor-examples)**
+💻 **[HTCondor Examples Repository](https://github.com/jsu-research-computing/htcondor-examples)**
 
 ---
 
 ### Step 4 — Review Policies
 
-Make sure you understand acceptable use and security expectations.
+Read acceptable use and system expectations before running workloads.
 
 📜 **[Open Policies Page](/ci-docs/policies/)**  
 🔗 **[Policy Repository](https://github.com/jsu-research-computing/ci-policy)**
 
 ---
 
-### Step 5 — Get Help (Support)
+### Step 5 — Review System Specs
 
-Troubleshooting steps, contact info, and onboarding help.
+Learn the current JSU research computing hardware and infrastructure layout.
+
+🖥️ **[Open System Specs Page](/ci-docs/system-specs/)**
+
+---
+
+### Step 6 — Get Help if Needed
+
+Use support resources if you need help with onboarding, training, or job submission.
 
 🛟 **[Open Support Page](/ci-docs/support/)**  
 🧰 **[Open Resources Hub](/ci-docs/resources/)**
-
----
