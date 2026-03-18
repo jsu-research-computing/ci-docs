@@ -9,7 +9,7 @@
 
 ---
 
-This page collects the most important JSU Research Computing documents and tools.
+This page collects the most important JSU Research Computing documents, tools, and system information in one place.
 
 ## Policies
 - [Policy repository (ci-policy)](https://github.com/jsu-research-computing/ci-policy)
@@ -22,3 +22,6 @@ This page collects the most important JSU Research Computing documents and tools
 
 ## Example HTCondor Jobs
 - [Example workflows (htcondor-examples)](https://github.com/jsu-research-computing/htcondor-examples)
+
+## System Specs
+- [JSU System Specs Page](/ci-docs/system-specs/)
