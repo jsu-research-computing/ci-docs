@@ -16,14 +16,6 @@ title: JSU Research Computing
 Welcome to **Jackson State University Research Computing (RC)** — a campus service that supports research, learning, and innovation through advanced computing infrastructure, training, and facilitation.
 
 ---
-> ## 🚀 Quick Start
-> New to JSU Research Computing?
->
-> 1. [Start Here](https://jsu-research-computing.github.io/ci-docs/start-here/)
-> 2. [Request Access](https://jsu-research-computing.github.io/ci-docs/get-access/)
-> 3. [Complete Training](https://jsu-research-computing.github.io/ci-docs/training/)
-> 4. [Run Your First Job](https://jsu-research-computing.github.io/ci-docs/examples/)
-
 ## Get Started
 
 <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 14px; margin-top: 12px;">
