@@ -40,10 +40,15 @@ This node supports:
 
 ---
 
-## Official Specs Document
+## 📄 Official Specs Document
 
-➡️ [Open JSU Chassis Specs PDF](../assets/jsu-chassis-specs.pdf)
+➡️ [Open JSU Chassis Specs PDF](https://jsu-research-computing.github.io/ci-docs/assets/jsu-chassis-specs.pdf)
 
+### Embedded Preview
+
+<iframe src="https://jsu-research-computing.github.io/ci-docs/assets/jsu-chassis-specs.pdf" width="100%" height="600px">
+This browser does not support embedded PDFs. Please use the link above to open the file.
+</iframe>
 ---
 
 ## Why this matters
